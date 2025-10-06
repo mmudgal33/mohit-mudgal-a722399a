@@ -1,13 +1,17 @@
 {
-  "name": "mohit-mudgal-a722399a",
+  "name": "a722399a",
   "version": "1.0.0",
   "main": "index.js",
-  "git-repository":"https://github.com/mmudgal33/mohit-mudgal-a722399a.git",
+  "git-repository": "https://github.com/mmudgal33/mohit-mudgal-a722399a.git",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "Mohit Mudgal",
   "license": "ISC",
-  "description": "Create and Publish an NPM Package"
+  "description": "Create and Publish an NPM Package",
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "inquirer": "^7.0.0"
+  }
 }

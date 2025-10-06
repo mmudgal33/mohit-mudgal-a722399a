@@ -1,0 +1,31 @@
+{
+    "Name": [
+        "Mohit Mudgal"
+    ],
+    "Email": [
+        "mmudgal33@gmail.com"
+    ],
+    "LinkedIn": [
+        "linkedin.com/in/mohit-mudgal-a722399a"
+    ],
+    "Github": [
+        "mmudgal33/"
+    ],
+    "Skills": [
+        "R, SAS, MongoDB, T-SQL, JavaScript, React, Express, Machine Learning"
+    ],
+    "Experience": [
+        "Amex, Data Analysis",
+        "Aar ya Inter national (Research Analyst)"
+    ],
+    "Projects": [
+        "Real Estate (Machine Learning)",
+        "Consumer Complaints Resolution (Machine Learning)",
+        "Food Ordering App (Web Development)",
+        "social Media App (Web Development)"
+    ],
+    "Education": [
+        "kendriya vidyalaya (senior secondary, 2010)",
+        "Deenbandhu Chotu Ram University of Science and Technology (B.Tech, 2016)"
+    ]
+}
