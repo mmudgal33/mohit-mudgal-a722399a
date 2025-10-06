@@ -53,11 +53,11 @@ function handleResume() {
   }).catch(err => console.log('Ooops,', err))
 }
 
-showResume();
+// showResume();
 
 
 
-// module.exports = showResume
+module.exports = showResume
 
 
 
